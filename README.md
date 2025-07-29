@@ -1,4 +1,4 @@
-Research and Conference Management System
+                                                                      ##Research and Conference Management System
 
 A university-level DBMS project to manage research projects, publications, conferences, and academic collaborations. Designed using relational modeling (3NF normalization) and implemented with SQL and NoSQL (MongoDB) approaches.
 
@@ -13,17 +13,17 @@ This system tracks faculty and student involvement in research projects, publica
 
 Repository Structure
 
-📂research-conference-dbms
-    📂 documentation
-    Research_Conference_DBMS_Report.pdf : Detailed project report
+📂 research-conference-dbms/
+- 📂 documentation/
+  - `Research_Conference_DBMS_Report.pdf` : Detailed project report
 
-📂sql
-    schema.sql : Table creation scripts with constraints
-    insert_data.sql : Sample data insertion scripts
-    queries.sql : Complex SQL queries
-    triggers.sql : Triggers enforcing business rules
+- 📂 sql/
+  - `schema.sql` : Table creation scripts with constraints
+  - `insert_data.sql` : Sample data insertion scripts
+  - `queries.sql` : Complex SQL queries
+  - `triggers.sql` : Triggers enforcing business rules
 
-README.md : Project overview (this file)
+- `README.md` : Project overview (this file)
 
 How to Use
 1. Review the SQL scripts inside `/sql/` to create the database schema and insert sample data.
