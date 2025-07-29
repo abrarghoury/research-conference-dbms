@@ -1,4 +1,4 @@
-                                                                      ##Research and Conference Management System
+Research and Conference Management System
 
 A university-level DBMS project to manage research projects, publications, conferences, and academic collaborations. Designed using relational modeling (3NF normalization) and implemented with SQL and NoSQL (MongoDB) approaches.
 
