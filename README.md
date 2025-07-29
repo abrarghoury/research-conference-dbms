@@ -49,7 +49,7 @@ Report
 
 For detailed documentation, design explanations, and outputs, please refer to the PDF report:
 
-[Research_Conference_SQL_Project.pdf](./Documentation/Research_Conference_SQL_Project
-)
+📄 [Research_Conference_SQL_Project.pdf](./Research-Conference-dbms/Documentation/Research_Conference_SQL_Project.pdf)
+
 
 
