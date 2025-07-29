@@ -13,15 +13,17 @@ This system tracks faculty and student involvement in research projects, publica
 
 Repository Structure
 
-📂 research-conference-dbms/
-├── 📂 documentation/
-│   └── Research_Conference_DBMS_Report.pdf
-├── 📂 sql/
-│   ├── schema.sql
-│   ├── insert_data.sql
-│   ├── queries.sql
-│   └── triggers.sql
-└── README.md
+📂research-conference-dbms
+    📂 documentation
+    Research_Conference_DBMS_Report.pdf : Detailed project report
+
+📂sql
+    schema.sql : Table creation scripts with constraints
+    insert_data.sql : Sample data insertion scripts
+    queries.sql : Complex SQL queries
+    triggers.sql : Triggers enforcing business rules
+
+README.md : Project overview (this file)
 
 How to Use
 1. Review the SQL scripts inside `/sql/` to create the database schema and insert sample data.
