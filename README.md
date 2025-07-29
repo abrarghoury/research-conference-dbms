@@ -32,11 +32,11 @@ How to Use
 4. See full project explanation, ERD, normalization steps, and more in the PDF report.
 
 Technologies Used
-- Oracle SQL 
+- Oracle SQL / 
 - MongoDB (NoSQL)
 - Draw.io (ER Diagram)
 - Microsoft Excel (Normalization)
-- GitHub
+- Git & GitHub
 
 License
 This project is intended for academic and learning purposes only. Please do not copy or redistribute without permission.
@@ -49,7 +49,4 @@ Report
 
 For detailed documentation, design explanations, and outputs, please refer to the PDF report:
 
-[Research_Conference_SQL_Project.pdf](./Research-Conference-dbms/Documentation/Research_Conference_SQL_Project.pdf)
-
-
-
+[Research_Conference_SQL_Project.pdf](./Research-Conference dbms/Documentation/Research_Conference_SQL_Project.pdf)
